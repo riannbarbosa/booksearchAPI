@@ -2,7 +2,7 @@
 
 
 
-<b>Site created using React with the google books API, the purpose of this site was of to practice the API fetchin with axios and learn more about it, another purpose was of to learn React and how 
+<b>Site created using React with the google books API, the purpose of this site was of to practice the API fetch with axios and learn more about it, another purpose was of to learn React and how 
 React works.
   <p>This site was deployed to Firebase in which is hosting.</p></b>
 
