@@ -7,8 +7,8 @@ React works.
   <p>This site was deployed to Firebase in which is hosting.</p></b>
 
 <div>
-    <img src="https://raw.githack.com/riannbarbosa/booksearchAPI/main/src/img/photo1.png" width="470vw" >
-    <img src="https://raw.githack.com/riannbarbosa/booksearchAPI/main/src/img/Photo2.png" width="470vw" >
+    <img src="https://raw.githack.com/riannbarbosa/booksearchAPI/main/src/img/photo1.png" width="460vw" >
+    <img src="https://raw.githack.com/riannbarbosa/booksearchAPI/main/src/img/Photo2.png" width="460vw" >
 </div>
  
  #
