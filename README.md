@@ -1,4 +1,4 @@
- # <a href="https://thebooksearchapp.web.app" target="_blank">The Book Search API</a>
+ # <a href="https://thebooksearchapp.web.app" onclick="return ! window.open(this.href);">The Book Search API</a>
 
 
 
@@ -7,8 +7,8 @@ React works.
   <p>This site was deployed to Firebase in which is hosting.</p></b>
 
 <div>
-    <img src="https://raw.githack.com/riannbarbosa/booksearchAPI/main/src/img/photo1.png" width="480vw" >
-    <img src="https://raw.githack.com/riannbarbosa/booksearchAPI/main/src/img/Photo2.png" width="480vw" >
+    <img src="https://raw.githack.com/riannbarbosa/booksearchAPI/main/src/img/photo1.png" width="460vw" >
+    <img src="https://raw.githack.com/riannbarbosa/booksearchAPI/main/src/img/Photo2.png" width="460vw" >
 </div>
  
  #
