@@ -64,6 +64,7 @@ function App() {
 
    <footer>
      <p>© 2021 by Rian Barbosa / Thank you for visiting my page hope y'all enjoy :D</p>
+     <p >On <b><a Style="color: black;" href="https://github.com/riannbarbosa/booksearchAPI" Target="_blank">Github</a></b></p>
    </footer>
 
     </div>
